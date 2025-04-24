@@ -1,0 +1,1 @@
+& C:/Users/winus/AppData/Local/Programs/Python/Python313/python.exe c:/Users/winus/Python_Studia/Plik_pathon.py
